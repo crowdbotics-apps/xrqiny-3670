@@ -1,0 +1,3 @@
+rootProject.name = 'xrqiny_3670'
+
+include ':app'
